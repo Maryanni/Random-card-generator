@@ -1,0 +1,35 @@
+body{
+    background-color: green;
+}
+
+.card{
+    background: white;
+    width: 380px;
+	height: 550px;
+	margin: auto;
+    border-radius: 3%;
+}
+
+.value{
+    text-align: center;
+    font-size: 100px;
+    padding: 160px;
+}
+
+.icon{
+    font-size: xxx-large;
+    margin-top: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.iconFirst{
+   
+    justify-content: start;
+}
+
+.iconSecond{
+    display: flex;
+    rotate: 180deg;
+    
+}
